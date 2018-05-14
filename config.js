@@ -5,9 +5,10 @@
  * access_token
  * access_token_secret
  */
+
 module.exports = {
-    consumer_key: 'DRw7obY8EDS1RXg6q0CnD2yOV',  
-    consumer_secret: '1Fb5wzI1kH9E5geisANfp0iZpUJmTe9xQlsRhkAxw7ilJ5v0Y9',
-    access_token: '181855639-qfVPDQL0QIsjGW2754Uu59gS6SLEM7tvPr2WLNiz',  
-    access_token_secret: 'WL31V6LzOgVaasRyOMLv9gjAi2peqLzSdpIXjNjtV5edo'
+    consumer_key: 'pOIzsUgzxbJLpiOkzm0WjqIuB',  
+    consumer_secret: 'AYptLFlzqxZHY8tTW7vOdzgvrGAD39HdC8IHSnwK27OhtseF4K',
+    access_token: '	852249969650049026-W6n9SfuqfFYntq35mABVc54naY7nQ6F',  
+    access_token_secret: '1a3fhsO4wsyXLBSbK2xhiys8LtiLhWs75SGhlzTxcpDWV'
   }
